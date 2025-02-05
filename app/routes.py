@@ -14,7 +14,7 @@ def index():
         },
         {
             'author': {'username': 'Pepe'},
-            'body': 'El avion se retraso'
+            'body': 'El avion se retrasó'
         },
         {
             'author': {'username': 'Juan'},
